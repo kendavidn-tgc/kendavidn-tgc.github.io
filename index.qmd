@@ -1,0 +1,16 @@
+---
+title: "Kene David Nwosu"
+image: prof_pic.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/kendavidn
+    - icon: github
+      text: Github
+      href: https://github.com/kendavidn
+
+---
+
+Kene David Nwosu is a builder, educator, and public health advocate. With a background in global health and epidemiology, he is currently pursuing a Ph.D. at the University of Geneva while also working as an epidemiology researcher. 

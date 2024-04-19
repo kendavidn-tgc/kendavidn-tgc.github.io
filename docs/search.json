@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "My Portfolio",
+    "section": "",
+    "text": "Analysis of DHS Data\n\n\n\n\n\n\n\ncode\n\n\nanalysis\n\n\nr\n\n\n\n\n\n\n\n\n\n\n\nApr 19, 2024\n\n\nKene David Nwosu\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nApr 16, 2024\n\n\nKene David Nwosu\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kene David Nwosu",
+    "section": "",
+    "text": "Kene David Nwosu is a builder, educator, and public health advocate. With a background in global health and epidemiology, he is currently pursuing a Ph.D. at the University of Geneva while also working as an epidemiology researcher."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Analysis of DHS Data",
+    "section": "",
+    "text": "This was a project using DHS data. You can find the project here"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  }
+]

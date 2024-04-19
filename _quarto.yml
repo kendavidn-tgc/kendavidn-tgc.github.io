@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: "docs"
+
+website:
+  title: "Kene David Nwosu"
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Portfolio"
+        file: portfolio.qmd
+      - text: "CV"
+        file: cv.qmd
+    right:
+      - icon: github
+        href: https://github.com/kendavidn
+      - icon: twitter
+        href: https://twitter.com/kendavidn
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
